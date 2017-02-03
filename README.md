@@ -11,11 +11,17 @@ Git is a tool used for keeping software projects organized, which helps to make 
 
 
 ### Glossary
+
 **version control:** the task of keeping a software system consisting of many versions and configurations well organized
+
 **repository:** also known as "repo"- a place to keep your code and files
+
 **commit:** save the state of your current project.  GitHub takes a "snapshot" of your files, when you want to save changes
+
 **push:**
+
 **pull:**
+
 **clone:** 
 
 
