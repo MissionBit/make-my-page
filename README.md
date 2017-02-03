@@ -7,7 +7,10 @@ The goal of this project is to make a personal web page, and to learn more about
 ## Some Background Information
 
 ### GitHub
-Git is a tool used for keeping software projects organized, which helps to make both individual and team development work easier.  
+
+**Git** is a tool used for keeping software projects organized, which makes both solo and team development work easier.  
+
+**GitHub** is a free service we'll be using to keep our code safe and help us collaborate. GitHub is like a backup service for your code.  If you make sure to push your code there every class, you won't lose it.  This is very handy for a lot of reasons; if you aren't using the same laptop during every class, or you accidentally delete a file or make a mistake after you've pushed it. When working in groups it also makes it much easier for multiple people to collaborate on the same project.
 
 
 ### Glossary
@@ -28,6 +31,11 @@ Git is a tool used for keeping software projects organized, which helps to make 
 
 **open-source:**  refers to something people can use, change, or modify because it is publicly accessible
 
+## Making a GitHub Account
+
+Go to https://github.com/ and sign up for an account.
+
+GitHub won't spam you, but the email address you choose will be associated with your account and by default it may be published along with your code. If you don't want that, go to the Emails section under Account Settings. After you verify your email address there will be an option to "Keep my email address private".
 
 ## Making a Repository
 
