@@ -66,3 +66,7 @@ made. Click on the box next to the changes you made (this should check off "inde
 
 After about 10 minutes, you'll have your own website at
 http://YOURNAME.github.io/ 
+
+## 6. Edit the HTML
+
+Now, you can start putting things on your page.  Try adding some HTML elements!  Go to Brackets, and add some basic code.  Start off by adding opening and closing HTML and body tags, then play around with adding some text.
