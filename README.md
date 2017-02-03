@@ -18,17 +18,18 @@ Git is a tool used for keeping software projects organized, which helps to make 
 
 **commit:** save the state of your current project.  GitHub takes a "snapshot" of your files, when you want to save changes
 
-**push:**
+**push:** "push up your code" means to upload to the repository
 
-**pull:**
+**pull:** "pull down your code" means to download from the repository
 
-**clone:** 
+**clone:** "clone down your repo" means to download the same repository to your computer
+
+**git:**  open-source version control software
+
+**open-source:**  refers to something people can use, change, or modify because it is publicly accessible
 
 
-
-
-Making a Repository
-===================
+## Making a Repository
 
 Open the GitHub app and sign in. Click the `+` at the top and name your new repository `YOURNAME.github.io`. For example, if your GitHub username is
 `pokemon-fan` then the name should be `pokemon-fan.github.io`.
