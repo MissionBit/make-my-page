@@ -35,18 +35,18 @@ The goal of this project is to make a personal web page, and to learn more about
 **text editor:** the application we use to write and edit code; in this class, we'll use Brackets
 
 
-## 1. Making a GitHub Account
+## 1. Make a GitHub Account
 
 Go to https://github.com/ and sign up for an account.
 
 GitHub won't spam you, but the email address you choose will be associated with your account and by default it may be published along with your code. If you don't want that, go to the Emails section under Account Settings. After you verify your email address there will be an option to "Keep my email address private".
 
-## 2. Making a Repository with GitHub Desktop
+## 2. Make a Repository with GitHub Desktop
 
 Open the GitHub app and sign in. Click the `+` at the top and name your new repository `YOURNAME.github.io`. For example, if your GitHub username is `pokemon-fan` then the name should be `pokemon-fan.github.io`.
 
 
-## 3. Making a file in the Text Editor
+## 3. Make a file in the Text Editor
 
 Now open Brackets and press `Opt-Cmd-O` (File -> Open Folder).
 Navigate to your home directory by pressing `Shift-Cmd-H`
@@ -57,7 +57,7 @@ Press `Cmd-N` (File -> New) to create a new file. Type anything you
 want, such as "Hello World", into the window and then press
 `Cmd-S` (File -> Save). Choose the name `index.html` and click Save.
 
-## 4. Making a commit
+## 4. Make a commit
 
 Switch back to GitHub with `Cmd-Tab`. You should see the changes you
 made. Click on the box next to the changes you made (this should check off "index.html" too).  Type in a quick note about what you did in the "Summary" box, and if you want to elaborate further, write something in the "Description" box- this will be your "commit message."  Then, click "Commit to Master" and hit the "Publish" button to push your code to GitHub.  You should now be able to visit your GitHub account in the browser, and see your new repository! 
